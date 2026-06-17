@@ -1,1 +1,1 @@
-# operations-research
+# Решение задач оптимизации
