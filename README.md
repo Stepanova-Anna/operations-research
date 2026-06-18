@@ -1,4 +1,5 @@
 # Решение задач оптимизации
+## Репозиторий студентки 3 курса ИВТ 1.2 Степановой Анны
 
 ## [📎 Лабораторная работа № 1](https://github.com/Stepanova-Anna/operations-research/blob/main/lab1/README.md)
 
